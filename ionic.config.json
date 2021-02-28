@@ -1,5 +1,7 @@
 {
   "name": "IonicPWAPushNotificationApp",
-  "integrations": {},
+  "integrations": {
+    "capacitor": {}
+  },
   "type": "angular"
 }
